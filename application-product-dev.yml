@@ -2,4 +2,4 @@ server:
   port: 3101
 spring:
   application:
-    name: plat-service
+    name: product-service
